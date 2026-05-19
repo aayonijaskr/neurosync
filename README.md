@@ -1,3 +1,4 @@
+> Live demo: run `python app.py` after `pip install -r requirements.txt`
 # NeuroSync — Closed-Loop BCI Co-Pilot
 
 > A human-AI co-adaptation system for knowledge work. Brain signals → cognitive state → adaptive AI behavior → closed loop.
